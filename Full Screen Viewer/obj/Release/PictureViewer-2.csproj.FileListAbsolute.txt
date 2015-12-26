@@ -1,0 +1,9 @@
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\bin\Release\PictureViewer.exe.config
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\bin\Release\PictureViewer.exe
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\bin\Release\PictureViewer.pdb
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Release\PictureViewer.MainForm.resources
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Release\PictureViewer.Properties.Resources.resources
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Release\PictureViewer-2.csproj.GenerateResource.Cache
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Release\PictureViewer.exe
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Release\PictureViewer.pdb
+C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Release\PictureViewer-2.csprojResolveAssemblyReference.cache
