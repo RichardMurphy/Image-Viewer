@@ -16,3 +16,4 @@ C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Rele
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Release\JibbaJabba.MainForm.resources
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Release\JibbaJabba.Properties.Resources.resources
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Release\Full Screen Viewer.csproj.GenerateResource.Cache
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\bin\Release\ImageViewer.exe.config

@@ -7,12 +7,12 @@ C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\bin\Debug\Jibba
 C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Debug\JibbaJabba.MainForm.resources
 C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Debug\JibbaJibba.exe
 C:\Users\Rick\OneDrive\C# (VSE 2012)\Projects\ImageViewer\Viewer\obj\Debug\JibbaJibba.pdb
-C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\bin\Debug\JibbaJibba.exe.config
-C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\JibbaJibba.exe
-C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\JibbaJibba.pdb
-C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\bin\Debug\JibbaJibba.exe
-C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\bin\Debug\JibbaJibba.pdb
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\Full Screen Viewer.csprojResolveAssemblyReference.cache
-C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\JibbaJabba.MainForm.resources
-C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\JibbaJabba.Properties.Resources.resources
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\Full Screen Viewer.csproj.GenerateResource.Cache
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\bin\Debug\ImageViewer.exe.config
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\bin\Debug\ImageViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\bin\Debug\ImageViewer.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\ImageViewer.MainForm.resources
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\ImageViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Debug\ImageViewer.pdb

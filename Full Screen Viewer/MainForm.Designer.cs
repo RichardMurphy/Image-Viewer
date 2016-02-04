@@ -1,4 +1,4 @@
-﻿namespace JibbaJabba
+﻿namespace PictureViewer
 {
     partial class MainForm
     {
@@ -61,7 +61,7 @@
             // 
             this.pictureBoxOpenFile.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBoxOpenFile.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxOpenFile.Image = global::JibbaJabba.Properties.Resources.open_file_emoji_small;
+            this.pictureBoxOpenFile.Image = global::PictureViewer.Properties.Resources.open_file_emoji_small;
             this.pictureBoxOpenFile.Location = new System.Drawing.Point(640, 41);
             this.pictureBoxOpenFile.Name = "pictureBoxOpenFile";
             this.pictureBoxOpenFile.Size = new System.Drawing.Size(38, 23);

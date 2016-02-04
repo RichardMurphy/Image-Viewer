@@ -1,0 +1,9 @@
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\bin\Debug\GifViewer.exe.config
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\bin\Debug\GifViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\bin\Debug\GifViewer.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Debug\GifViewer.csprojResolveAssemblyReference.cache
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Debug\GifViewer.Form1.resources
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Debug\GifViewer.Properties.Resources.resources
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Debug\GifViewer.csproj.GenerateResource.Cache
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Debug\GifViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Debug\GifViewer.pdb

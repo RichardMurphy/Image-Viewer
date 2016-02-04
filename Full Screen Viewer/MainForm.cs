@@ -7,11 +7,11 @@ using System.Linq;
 using System.Windows.Forms;
 using System.IO;
 
-namespace JibbaJabba
+namespace PictureViewer
 {
     public partial class MainForm : Form
     {
-        Image maimImage = JibbaJabba.Properties.Resources.my_logo;
+        Image maimImage = PictureViewer.Properties.Resources.my_logo;
         bool mouseIsDown = false, fullScreenIsChecked = false, isDraging = false;
         FormWindowState priorWindowState;
         List<string> files;
@@ -148,14 +148,14 @@ namespace JibbaJabba
                 WindowState = FormWindowState.Maximized;
                 fullScreenIsChecked = true;
 
-                pictureBoxFullScreen.Image = global::JibbaJabba.Properties.Resources.full_screen_off;
+                pictureBoxFullScreen.Image = global::PictureViewer.Properties.Resources.full_screen_off;
             }
             else
             {
                 FormBorderStyle = FormBorderStyle.Sizable;
                 WindowState = priorWindowState;
                 fullScreenIsChecked = false;
-                pictureBoxFullScreen.Image = global::JibbaJabba.Properties.Resources.full_screen;
+                pictureBoxFullScreen.Image = global::PictureViewer.Properties.Resources.full_screen;
             }
 
             picture.Fit(maimImage, ref mainPictureBox);

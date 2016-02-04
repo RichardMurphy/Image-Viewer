@@ -1,0 +1,18 @@
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Release\AnimatedGifViewer.Properties.Resources.resources
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Release\AnimatedGifViewer.csproj.GenerateResource.Cache
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\bin\Release\AnimatedGifViewer.exe.config
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\bin\Release\AnimatedGifViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\bin\Release\AnimatedGifViewer.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Release\AnimatedGifViewer.Form1.resources
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Release\AnimatedGifViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Release\AnimatedGifViewer.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Practice\GifViewer\GifViewer\obj\Release\AnimatedGifViewer.csprojResolveAssemblyReference.cache
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\bin\Release\AnimatedGifViewer.exe.config
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\obj\Release\AnimatedGifViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\obj\Release\AnimatedGifViewer.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\bin\Release\AnimatedGifViewer.exe
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\bin\Release\AnimatedGifViewer.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\obj\Release\AnimatedGifViewer.csprojResolveAssemblyReference.cache
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\obj\Release\AnimatedGifViewer.Form1.resources
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\obj\Release\AnimatedGifViewer.Properties.Resources.resources
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\AnimatedGifViewer\obj\Release\AnimatedGifViewer.csproj.GenerateResource.Cache

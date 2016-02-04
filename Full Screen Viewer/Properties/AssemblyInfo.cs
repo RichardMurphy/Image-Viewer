@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Viewer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ImageViewer")]
+[assembly: AssemblyDescription("Full Screen Image Viewer with pan and zoom")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Toshiba")]
-[assembly: AssemblyProduct("Viewer")]
-[assembly: AssemblyCopyright("Copyright © Toshiba 2015")]
+[assembly: AssemblyCompany("getJibba.com")]
+[assembly: AssemblyProduct("ImageViewer")]
+[assembly: AssemblyCopyright("Copyright © getJibba.com 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
