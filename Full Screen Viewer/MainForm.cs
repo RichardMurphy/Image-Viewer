@@ -66,6 +66,7 @@ namespace PictureViewer
 
         private void mainImage_Paint(object sender, PaintEventArgs e)
         {
+            e.Dispose();
             e.Graphics.InterpolationMode = InterpolationMode.NearestNeighbor;
             e.Graphics.DrawImage(maimImage, picture.X, picture.Y, picture.Width, picture.Height); //System.OverflowException 
         }        

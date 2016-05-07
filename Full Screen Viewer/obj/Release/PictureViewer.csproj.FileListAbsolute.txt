@@ -6,3 +6,4 @@ C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Rele
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Release\PictureViewer.csproj.GenerateResource.Cache
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Release\PictureViewer.exe
 C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Release\PictureViewer.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Image Viewer\Full Screen Viewer\obj\Release\PictureViewer.csprojResolveAssemblyReference.cache
